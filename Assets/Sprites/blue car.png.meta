@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 6c36347050155d3449b9309b97218d81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7206818784195897195
+    second: blue car_0
+  - first:
+      213: -443954143569496688
+    second: blue car_1
+  - first:
+      213: 3479051570872340334
+    second: blue car_2
+  - first:
+      213: 3092751089002816780
+    second: blue car_3
+  - first:
+      213: 8025234526481767042
+    second: blue car_4
+  - first:
+      213: -9033721677937463090
+    second: blue car_5
+  - first:
+      213: -5354617277533895875
+    second: blue car_6
+  - first:
+      213: 4089967109052477532
+    second: blue car_7
+  - first:
+      213: -1718906861537651667
+    second: blue car_8
+  - first:
+      213: 1781879460814180813
+    second: blue car_9
+  - first:
+      213: -8787797348165458841
+    second: blue car_10
+  - first:
+      213: -3019360519458777987
+    second: blue car_11
+  - first:
+      213: -2098256451974246037
+    second: blue car_12
+  - first:
+      213: 154421106698190820
+    second: blue car_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue car_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 910
+        width: 319
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67eb983083c30460800000000000000
+      internalID: 7206818784195897195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1040
+        width: 190
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953afffe02c6d9f0800000000000000
+      internalID: -443954143569496688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1050
+        width: 193
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4c1d88f2184030800000000000000
+      internalID: 3479051570872340334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1087
+        width: 116
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0527b6bab8abea20800000000000000
+      internalID: 3092751089002816780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_4
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1088
+        width: 114
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a5526484c5f5f60800000000000000
+      internalID: 8025234526481767042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 782
+        width: 391
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0bac22ff5c1a280800000000000000
+      internalID: -9033721677937463090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 768
+        width: 195
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334c60c4f390b5b0800000000000000
+      internalID: -5354617277533895875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 783
+        width: 177
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ba168a6b72c830800000000000000
+      internalID: 4089967109052477532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 1024
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 300, y: 155}
+        - {x: 300, y: 159}
+        - {x: 298, y: 161}
+        - {x: 295, y: 160}
+        - {x: 295, y: 156}
+        - {x: 297, y: 154}
+      - - {x: 454, y: 155}
+        - {x: 456, y: 157}
+        - {x: 454, y: 161}
+        - {x: 449, y: 161}
+        - {x: 447, y: 159}
+        - {x: 447, y: 156}
+        - {x: 449, y: 154}
+      - - {x: 62, y: 160}
+        - {x: 62, y: 161}
+        - {x: 57, y: 161}
+        - {x: 55, y: 159}
+        - {x: 56, y: 156}
+        - {x: 58, y: 156}
+      - - {x: 322, y: -133}
+        - {x: 322, y: -131}
+        - {x: 319.75, y: -128}
+        - {x: 322, y: -128}
+        - {x: 326, y: -72}
+        - {x: 326, y: -68}
+        - {x: 336, y: -104}
+        - {x: 393, y: -128}
+        - {x: 470, y: -128}
+        - {x: 500, y: -85}
+        - {x: 500, y: 149}
+        - {x: -440, y: 149}
+        - {x: -499, y: 122}
+        - {x: -499, y: -111}
+        - {x: -472, y: -128}
+        - {x: 112, y: -128}
+        - {x: 111, y: -129}
+        - {x: 113, y: -132}
+        - {x: 116, y: -131}
+        - {x: 116, y: -128}
+        - {x: 311.2857, y: -128}
+        - {x: 309, y: -132}
+        - {x: 310, y: -134}
+        - {x: 320, y: -134}
+      - - {x: -509, y: 107}
+        - {x: -509, y: 113}
+        - {x: -511, y: 115}
+        - {x: -512, y: 115}
+        - {x: -512, y: 106}
+      - - {x: 123, y: 58}
+        - {x: 124, y: 59}
+        - {x: 124, y: 58}
+      - - {x: 358.5, y: -4.5}
+        - {x: 359, y: -4}
+        - {x: 359, y: -5}
+      - - {x: 215, y: -26}
+        - {x: 211, y: -22}
+        - {x: 210, y: -20}
+        - {x: 211, y: -19}
+        - {x: 211, y: -17}
+        - {x: 214, y: -18}
+        - {x: 220, y: -23}
+        - {x: 220, y: -24}
+        - {x: 217, y: -27}
+      - - {x: -144, y: -144}
+        - {x: -145, y: -141}
+        - {x: -149, y: -141}
+        - {x: -151, y: -143}
+        - {x: -150, y: -146}
+        - {x: -146, y: -146}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24111c01573528e0800000000000000
+      internalID: -1718906861537651667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 104
+        width: 236
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d466cde18ab810800000000000000
+      internalID: 1781879460814180813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 347
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7646a702fd87b0680800000000000000
+      internalID: -8787797348165458841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 22
+        width: 169
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7412d4da931916d0800000000000000
+      internalID: -3019360519458777987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 82
+        width: 122
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61576cbfde71e2e0800000000000000
+      internalID: -2098256451974246037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car_13
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 83
+        width: 120
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef719aad2d942200800000000000000
+      internalID: 154421106698190820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 77c398a660934ef4ab7edda468938e57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      blue car_0: 7206818784195897195
+      blue car_1: -443954143569496688
+      blue car_10: -8787797348165458841
+      blue car_11: -3019360519458777987
+      blue car_12: -2098256451974246037
+      blue car_13: 154421106698190820
+      blue car_2: 3479051570872340334
+      blue car_3: 3092751089002816780
+      blue car_4: 8025234526481767042
+      blue car_5: -9033721677937463090
+      blue car_6: -5354617277533895875
+      blue car_7: 4089967109052477532
+      blue car_8: -1718906861537651667
+      blue car_9: 1781879460814180813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

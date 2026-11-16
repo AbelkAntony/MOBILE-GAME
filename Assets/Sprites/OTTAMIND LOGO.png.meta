@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: b4148a65d6bcb354e9ad8d2c961c6d4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1973417406016962594
+    second: OTTAMIND LOGO_0
+  - first:
+      213: 8836560151410175150
+    second: OTTAMIND LOGO_1
+  - first:
+      213: -8694233800230432116
+    second: OTTAMIND LOGO_2
+  - first:
+      213: -9169423328819038775
+    second: OTTAMIND LOGO_3
+  - first:
+      213: 435201824080502114
+    second: OTTAMIND LOGO_4
+  - first:
+      213: 9219112450841559528
+    second: OTTAMIND LOGO_5
+  - first:
+      213: -9105716929370194899
+    second: OTTAMIND LOGO_6
+  - first:
+      213: 9114277225933341846
+    second: OTTAMIND LOGO_7
+  - first:
+      213: 1572557687874314868
+    second: OTTAMIND LOGO_8
+  - first:
+      213: 7554347999264313401
+    second: OTTAMIND LOGO_9
+  - first:
+      213: -1293840526555644186
+    second: OTTAMIND LOGO_10
+  - first:
+      213: -5321854008919105924
+    second: OTTAMIND LOGO_11
+  - first:
+      213: -70739603495073455
+    second: OTTAMIND LOGO_12
+  - first:
+      213: 6368310290407059152
+    second: OTTAMIND LOGO_13
+  - first:
+      213: 3692612277596978190
+    second: OTTAMIND LOGO_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 482
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c637dcacf26b10800000000000000
+      internalID: 1973417406016962594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 332
+        width: 188
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacec2db3a4c1aa70800000000000000
+      internalID: 8836560151410175150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 342
+        width: 132
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8212173c60e75780800000000000000
+      internalID: -8694233800230432116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 518
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5bf8a601aafb080800000000000000
+      internalID: -9169423328819038775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 354
+        width: 134
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9be1d0c52a0600800000000000000
+      internalID: 435201824080502114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 374
+        width: 126
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1cac8ddedd0ff70800000000000000
+      internalID: 9219112450841559528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 278
+        width: 180
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf0a762bef1a180800000000000000
+      internalID: -9105716929370194899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 236
+        width: 1020
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6948034f8da6c7e70800000000000000
+      internalID: 9114277225933341846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 308
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ee86a2e8d2d510800000000000000
+      internalID: 1572557687874314868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 322
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93015dd0b7f66d860800000000000000
+      internalID: 7554347999264313401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 316
+        width: 130
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee75aa65ea5b0ee0800000000000000
+      internalID: -1293840526555644186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 364
+        width: 58
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e53eba9f9f426b0800000000000000
+      internalID: -5321854008919105924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 226
+        width: 108
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159cf1694bea40ff0800000000000000
+      internalID: -70739603495073455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6d27e778c06850800000000000000
+      internalID: 6368310290407059152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OTTAMIND LOGO_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 230
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf96b5d4bce3330800000000000000
+      internalID: 3692612277596978190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OTTAMIND LOGO_0: 1973417406016962594
+      OTTAMIND LOGO_1: 8836560151410175150
+      OTTAMIND LOGO_10: -1293840526555644186
+      OTTAMIND LOGO_11: -5321854008919105924
+      OTTAMIND LOGO_12: -70739603495073455
+      OTTAMIND LOGO_13: 6368310290407059152
+      OTTAMIND LOGO_14: 3692612277596978190
+      OTTAMIND LOGO_2: -8694233800230432116
+      OTTAMIND LOGO_3: -9169423328819038775
+      OTTAMIND LOGO_4: 435201824080502114
+      OTTAMIND LOGO_5: 9219112450841559528
+      OTTAMIND LOGO_6: -9105716929370194899
+      OTTAMIND LOGO_7: 9114277225933341846
+      OTTAMIND LOGO_8: 1572557687874314868
+      OTTAMIND LOGO_9: 7554347999264313401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
